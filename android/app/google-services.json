@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141799708309",
+    "project_id": "theapp-3961c",
+    "storage_bucket": "theapp-3961c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141799708309:android:5785cc6c691f4b118a2d9c",
+        "android_client_info": {
+          "package_name": "com.example.loupgaroutest12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141799708309-v57vhp2rf6dt50c971ihb272d9q98b9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRnhMpj_hblg7dRQi2B2xUNCh_7IvLC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141799708309-v57vhp2rf6dt50c971ihb272d9q98b9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
