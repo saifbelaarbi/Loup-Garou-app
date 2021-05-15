@@ -57,6 +57,14 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/settings-icon.png
+    - assets/images/comd.jpg
+    - assets/images/voleur.png
+    - assets/images/loupN.png
+    - assets/images/Pfille.png
+    - assets/images/necro.png
+    - assets/images/LoupB.png
+    - assets/images/BEM.png
+    - assets/images/ASec.png
     - assets/images/background-loup.jpg
     - assets/images/wolf-silhouette-detailed-tattoo.png
     - assets/images/alien.jpg
@@ -68,7 +76,7 @@ flutter:
     - assets/images/capitaine.jpg
     - assets/images/Chasseur.jpg
     - assets/images/Chevalier.jpg
-    - assets/images/Chien-loup.jpg
+    - assets/images/Chien-Loup.png
     - assets/images/Corbeau.jpg
     - assets/images/cupidon.jpg
     - assets/images/enfant sauvage.jpg
@@ -80,7 +88,7 @@ flutter:
     - assets/images/juge.jpg
     - assets/images/Ours.jpg
     - assets/images/pyro.jpg
-    - assets/images/renard.jpg
+    - assets/images/Renard.jpg
     - assets/images/servante.jpg
     - assets/images/soeur.jpg
     - assets/images/Loup-Garou.jpg
