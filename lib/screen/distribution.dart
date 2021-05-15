@@ -19,6 +19,7 @@ class _distState extends State<dist> {
   @override
   List<Role> listRole = [
     alien,
+    Asec,BEM,LoupB,Necro,Pfille,LoupN,Comedien,
     ancien,
     ange,
     barbier,

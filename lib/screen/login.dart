@@ -70,7 +70,7 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-      resizeToAvoidBottomPadding: false,
+      resizeToAvoidBottomInset: false,
       body: new Container(
         decoration: BoxDecoration(
             image: DecorationImage(
@@ -135,16 +135,16 @@ class _LoginPageState extends State<LoginPage> {
       return new Container(
         child: new Column(
           children: <Widget>[
-            new RaisedButton(
+            new ElevatedButton(
               child: new Text('Login'),
               onPressed: _loginPressed,
             ),
-            new FlatButton(
+            new TextButton(
               child: new Text("Vous n'avez pas de compte? Appuyez ici.",
                   style: TextStyle(color: Colors.white, fontSize: 16.0)),
               onPressed: _formChange,
             ),
-            new FlatButton(
+            new TextButton(
               child: new Text('Mot de passe oublié?',
                   style: TextStyle(color: Colors.white, fontSize: 16.0)),
               onPressed: _passwordReset,
@@ -156,11 +156,11 @@ class _LoginPageState extends State<LoginPage> {
       return new Container(
         child: new Column(
           children: <Widget>[
-            new RaisedButton(
+            new ElevatedButton(
               child: new Text("Créer un compte"),
               onPressed: _createAccountPressed,
             ),
-            new FlatButton(
+            new TextButton(
               child: new Text('Avez un compte? Cliquez ici.',
                   style: TextStyle(color: Colors.white, fontSize: 16.0)),
               onPressed: _formChange,

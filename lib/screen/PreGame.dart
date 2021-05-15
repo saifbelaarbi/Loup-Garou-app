@@ -17,6 +17,7 @@ class _PreGameState extends State<PreGame> {
   bool init = true;
   final List<Role> _listRole = [
     alien,
+    Asec,BEM,LoupB,Necro,Pfille,LoupN,Comedien,
     ancien,
     ange,
     barbier,

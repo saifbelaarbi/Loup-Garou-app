@@ -19,35 +19,6 @@ class _Voting extends State<Voting> {
   // ignore: non_constant_identifier_names
   int Pl_Num = 0;
 
-  final List<Role> _listRole = [
-    alien,
-    ancien,
-    ange,
-    barbier,
-    capitaine,
-    chasseur,
-    chevalier,
-    chien,
-    corbeau,
-    cupidon,
-    enfant,
-    frere,
-    glm,
-    idiot,
-    pere_Infecte,
-    jdf,
-    juge,
-    loup,
-    ours,
-    pyro,
-    renard,
-    salva,
-    servante,
-    sv,
-    soeur,
-    sorciere,
-    voyante
-  ];
 
   List<double> a = List.filled(/*_listRole.length*/ 27, 0);
 
